@@ -1,0 +1,10 @@
+#ifndef PLL_CONSTANTS
+#define PLL_CONSTANTS
+
+#include <complex.h>
+
+#define CONSTANTS_BOLTZMANN 1.380649e-23
+#define CONSTANTS_PI 3.141592653589793
+#define CONSTANTS_I I
+
+#endif /* PLL_CONSTANTS */
